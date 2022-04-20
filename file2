@@ -1,5 +1,8 @@
 git Terminology:
 
+working on ci
+
+
 working directory ---> staging area ---> local repository ---> remote repository.
 
 1. respository: a folder, which content are tracked by git.
